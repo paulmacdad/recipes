@@ -2,6 +2,6 @@
 - avocado 
 - lime
 - salt
-- chilli
+- soil
 # Instructions
 
